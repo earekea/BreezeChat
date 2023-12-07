@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054016544113",
+    "project_id": "chatbreeze-3b713",
+    "storage_bucket": "chatbreeze-3b713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054016544113:android:d758ed9091eaadb80f2ad0",
+        "android_client_info": {
+          "package_name": "com.example.chat_breeze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv2esNCge4NeD7Bl8Kyfd-AE1VZwQgc0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
